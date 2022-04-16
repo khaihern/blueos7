@@ -175,7 +175,7 @@ Remember to update the :class:`Mouse Down` variable at the end.
 |
 | **🎉 Congratulations! 🎉**
 
-You have just made an Amogus Color Picker on the BlueOS 7 Windows Manager! 
+You have just made an Amogus Color Picker on the Blue OS 7 Windows Manager! 
 Try creating your own app now and see how it works!
 
 Coding Practices

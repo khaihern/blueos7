@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'BlueOS 7'
-copyright = '2022, BlueOS Team'
-author = 'BlueOS Team'
+project = 'Blue OS 7'
+copyright = '2022, Blue OS Team'
+author = 'Blue OS Team'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'

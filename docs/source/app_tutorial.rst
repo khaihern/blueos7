@@ -137,19 +137,19 @@ to show why this is the case.
 Drag in the x & y positions of the arrows, and you have your two hitboxes. 
 Put the code that detects the hitboxes right before rendering the arrows
 
-.. image:: images/app_tutorial/place_hitbox_a.png
+.. figure:: images/app_tutorial/place_hitbox_a.png
+    
+    x & y positions of the arrows
 
-*x & y positions of the arrows*
+.. figure:: images/app_tutorial/place_hitbox_b.png
 
-.. image:: images/app_tutorial/place_hitbox_b.png
-
-*plugging the positions into the function*
+    plugging the positions into the function
 
 Then, with a little hack, we can change the arrows brightness whenever the mouse is hovered.
 
-.. image:: images/app_tutorial/place_hitbox_c.png
-
-*putting the functions into use with the little hack*
+.. figure:: images/app_tutorial/place_hitbox_c.png
+    
+    putting the functions into use with the little hack
 
 |
 | **Step 10: Detect Mouse Down**

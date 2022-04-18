@@ -6,8 +6,8 @@ This new OS is planned with many exciting features that aims to push the limits 
 This documentation will help developers of Blue OS get started *faster* and understand *better* of 
 Blue OS infrastructure.
 
-Any questions please reach out to us in our community server or 
-place a comment on our `Scratch studio <https://scratch.mit.edu/studios/31229287/comments>`_
+Any questions please reach out to us by 
+leaving us a comment on our `Scratch studio <https://scratch.mit.edu/studios/31229287/comments>`_
 
 .. note::
 
